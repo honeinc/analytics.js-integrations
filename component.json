@@ -40,7 +40,6 @@
     "segmentio/to-unix-timestamp": "0.0.1",
     "segmentio/use-https": "0.1.0",
     "segmentio/when": "0.0.1",
-    "segmentio/json": "1.0.0",
     "timoxley/next-tick": "0.0.2",
     "yields/merge": "*",
     "yields/slug": "1.1.0",
