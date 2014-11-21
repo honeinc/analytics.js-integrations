@@ -1,4 +1,14 @@
 
+1.3.10 / 2014-11-21
+==================
+
+  * sentry: update raven, and use .RavenConfig global to initialize
+  * changed to use del module in fullstory
+  * fix for fullstory
+  * Remove errant logfile
+  * Update `yields/store` to 1.0.1
+  * added createdAt as a format in customerio
+
 1.3.9 / 2014-11-13
 ==================
 
